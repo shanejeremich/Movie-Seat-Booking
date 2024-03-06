@@ -1,6 +1,6 @@
 # Movie Seat Booking
 
-You can find the deployed project at [Movie Seat Booking](https://sjeremich23.github.io/Movie-Seat-Booking/)
+You can find the deployed project at [Movie Seat Booking](https://shanejeremich.github.io/Movie-Seat-Booking/)
 
 ## Overview
 
@@ -12,10 +12,10 @@ This project is a sample of booking your seats at a Movie theater. You pick a mo
 
 ## Contributors
 
-|                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
+|                                        [Shane Jeremich](https://github.com/shanejeremich)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                         [<img src="images/shane.png" width = "200" />](https://github.com/sjeremich23)                         |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                         [<img src="https://avatars.githubusercontent.com/u/51142646?v=4" width = "200" />](https://github.com/shanejeremich)                         |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
@@ -35,7 +35,7 @@ This project is a sample of booking your seats at a Movie theater. You pick a mo
 
 ### Front end deployed to `GitHub Pages`
 
-> [Movie Seat Booking](https://sjeremich23.github.io/Movie-Seat-Booking/)
+> [Movie Seat Booking](https://shanejeremich.github.io/Movie-Seat-Booking/)
 
 # Getting Started
 
